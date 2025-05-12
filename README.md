@@ -59,7 +59,7 @@ Feel free to connect if you're working on similar computer vision applications o
 
      ```python
      model = YOLO('yolov8n.pt')
-     model.train(data='data.yaml', epochs=50, imgsz=640)
+     model.train(data='data.yaml', epochs=20, imgsz=640)
      ```
 
 4. **Validation & Evaluation:**
