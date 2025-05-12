@@ -1,0 +1,18 @@
+train: D:/candy detection using yolov8/Dataset/train/images
+val: D:/candy detection using yolov8/Dataset/val/images
+
+
+
+nc: 11  # number of classes
+names:
+  0: MMs_peanut
+  1: MMs_regular
+  2: airheads
+  3: gummy_worms
+  4: milky_way
+  5: nerds
+  6: skittles
+  7: snickers
+  8: starbust
+  9: three_musketeers
+  10: twizzlers
